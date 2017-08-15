@@ -1,0 +1,27 @@
+name: labelImg
+channels:
+- mmcauliffe
+- dsdale24
+- defaults
+dependencies:
+- freetype=2.5.5=2
+- libiconv=1.14=0
+- libpng=1.6.27=0
+- libxml2=2.9.4=0
+- libxslt=1.1.29=0
+- lxml=3.7.2=py34_0
+- openssl=1.0.2l=0
+- pip=9.0.1=py34_1
+- python=3.4.5=0
+- readline=6.2=2
+- setuptools=27.2.0=py34_0
+- sqlite=3.13.0=0
+- tk=8.5.18=0
+- wheel=0.29.0=py34_0
+- xz=5.2.2=1
+- zlib=1.2.8=3
+- icu=56.1=0
+- pyqt5=5.4.1=py34_0
+- qt5=5.4.1=0
+- sip=4.16.7=py34_0
+
